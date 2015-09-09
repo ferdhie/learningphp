@@ -1,4 +1,10 @@
 # learningphp
-Learning PHP language also I am learning git
+Proyek ini adalah untuk orang yang ingin mempelajari bahasa pemrograman PHP
 
-Tambah branch revisi1
+## Dasar-dasar PHP
+Berisi tutorial mengenai dasar-dasar php, silakan cek file 01-basic.php untuk source code
+Adapun sub bahasan mengenai:
+* pembukaan (mengenai apa itu php)
+* variable / penyimpanan data
+* logika / percabangan
+* looping / perulangan
